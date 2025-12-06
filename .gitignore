@@ -50,3 +50,6 @@ REQUIREMENTS.md
 
 # Logs
 *.log
+
+# Agent Config
+.gemini/
